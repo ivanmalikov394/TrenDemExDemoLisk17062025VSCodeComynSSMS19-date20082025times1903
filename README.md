@@ -1,0 +1,2 @@
+# TrenDemExDemoLisk17062025VSCodeComynSSMS19-date20082025times1903
+https://github.com/ivanmalikov394/TrenDemExDemoLisk17062025VSCodeComynSSMS1901817v.git
