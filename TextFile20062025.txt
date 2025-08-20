@@ -1,0 +1,33 @@
+===================================
+
+Невозможно подключиться к DESKTOP-A5K962K\SQLEXPRESS.
+
+===================================
+
+A connection cannot be made to redirector. Ensure that 'SQL Browser' service is running. (Microsoft.AnalysisServices.AdomdClient)
+
+------------------------------
+Расположение программы:
+
+   в Microsoft.AnalysisServices.AdomdClient.XmlaClient.OpenConnectionAndCheckIfSessionTokenNeeded(ConnectionInfo connectionInfo)
+   в Microsoft.AnalysisServices.AdomdClient.XmlaClient.<>c__DisplayClass170_0.<OpenConnection>b__0()
+   в Microsoft.AnalysisServices.AdomdClient.Security.TransparentUserContext.ExecuteInUserContextImpl[TResult](Func`1 action)
+   в Microsoft.AnalysisServices.AdomdClient.Security.UserContext.ExecuteInUserContext[TResult](Func`1 action)
+   в Microsoft.AnalysisServices.AdomdClient.XmlaClient.OpenConnection(ConnectionInfo connectionInfo, Boolean& isSessionTokenNeeded)
+   в Microsoft.AnalysisServices.AdomdClient.XmlaClient.Connect(ConnectionInfo connectionInfo, Boolean beginSession)
+   в Microsoft.AnalysisServices.AdomdClient.AdomdConnection.XmlaClientProvider.Connect()
+   в Microsoft.AnalysisServices.AdomdClient.AdomdConnection.XmlaClientProvider.Microsoft.AnalysisServices.AdomdClient.AdomdConnection.IXmlaClientProviderEx.ConnectXmla()
+   в Microsoft.AnalysisServices.AdomdClient.AdomdConnection.ConnectToXMLA(Boolean createSession, Boolean isHTTP)
+   в Microsoft.AnalysisServices.AdomdClient.AdomdConnection.Open()
+   в Microsoft.SqlServer.Management.UI.ConnectionDlg.Connector.<>c.<OpenConnection>b__26_0(UIConnectionInfo uici, IServerType ist)
+   в Microsoft.SqlServer.Management.UI.ConnectionDlg.Connector.ConnectionThreadUser()
+
+===================================
+
+Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:2382 (System)
+
+------------------------------
+Расположение программы:
+
+   в System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   в Microsoft.AnalysisServices.AdomdClient.XmlaClient.GetTcpClient(IConnectivityOwner owner, ConnectionInfo connectionInfo)

@@ -1,0 +1,27 @@
+﻿<БобровскийЛес>
+  <Отчёт>
+    <Структура>
+      <Структура>
+        <Таблица Схема="dbo" Таблица="sysdiagrams" Строки="0" />
+        <Таблица Схема="БобровскийЛес" Таблица="ИсторияКлиентов" Строки="3" />
+        <Таблица Схема="БобровскийЛес" Таблица="Клиенты" Строки="3" />
+        <Таблица Схема="БобровскийЛес" Таблица="Продажи" Строки="0" />
+        <Таблица Схема="dbo" Таблица="ТестоваяТаблица" Строки="0" />
+      </Структура>
+    </Структура>
+    <Журнал>
+      <СистемныйЖурнал>
+        <Запись Дата="2025-06-20T23:12:02.540" Процесс="spid55" Сообщение="Parallel redo is shutdown for database 'NameDB1' with worker pool size [1].&#xD;&#xA;" />
+        <Запись Дата="2025-06-20T23:12:02.510" Процесс="spid55" Сообщение="Parallel redo is started for database 'NameDB1' with worker pool size [1]." />
+        <Запись Дата="2025-06-20T23:12:02.430" Процесс="spid55" Сообщение="Starting up database 'NameDB1'." />
+        <Запись Дата="2025-06-20T23:12:02.410" Процесс="spid55" Сообщение="Parallel redo is shutdown for database 'BobrovskiyLes' with worker pool size [1]." />
+        <Запись Дата="2025-06-20T23:12:02.380" Процесс="spid55" Сообщение="Parallel redo is started for database 'BobrovskiyLes' with worker pool size [1]." />
+        <Запись Дата="2025-06-20T23:12:02.310" Процесс="spid55" Сообщение="Starting up database 'BobrovskiyLes'." />
+        <Запись Дата="2025-06-20T23:12:02.290" Процесс="spid55" Сообщение="Parallel redo is shutdown for database 'InternetShopDB2' with worker pool size [1]." />
+        <Запись Дата="2025-06-20T23:12:02.260" Процесс="spid55" Сообщение="Parallel redo is started for database 'InternetShopDB2' with worker pool size [1]." />
+        <Запись Дата="2025-06-20T23:12:02.180" Процесс="spid55" Сообщение="Starting up database 'InternetShopDB2'." />
+        <Запись Дата="2025-06-20T23:12:02.160" Процесс="spid55" Сообщение="Parallel redo is shutdown for database 'InternetShopDB1' with worker pool size [1]." />
+      </СистемныйЖурнал>
+    </Журнал>
+  </Отчёт>
+</БобровскийЛес>

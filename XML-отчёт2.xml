@@ -1,0 +1,32 @@
+﻿<Мониторинг>
+  <Отчёт>
+    <Таблицы>
+      <СамыеТяжёлые>
+        <Таблица Схема="БобровскийЛес" Таблица="ИсторияКлиентов" Строки="6" РазмерМБ="0.07" />
+        <Таблица Схема="БобровскийЛес" Таблица="Клиенты" Строки="3" РазмерМБ="0.07" />
+        <Таблица Схема="dbo" Таблица="ТестоваяТаблица" Строки="0" РазмерМБ="0.00" />
+        <Таблица Схема="БобровскийЛес" Таблица="Продажи" Строки="0" РазмерМБ="0.07" />
+        <Таблица Схема="dbo" Таблица="sysdiagrams" Строки="0" РазмерМБ="0.00" />
+      </СамыеТяжёлые>
+    </Таблицы>
+    <Ошибки>
+      <ПоследниеОшибки>
+        <Ошибка Дата="2025-06-20T23:19:44.660" Источник="spid55" Сообщение="Parallel redo is shutdown for database 'NameDB1' with worker pool size [1].&#xD;&#xA;" />
+        <Ошибка Дата="2025-06-20T23:19:44.630" Источник="spid55" Сообщение="Parallel redo is started for database 'NameDB1' with worker pool size [1]." />
+        <Ошибка Дата="2025-06-20T23:19:44.560" Источник="spid55" Сообщение="Starting up database 'NameDB1'." />
+        <Ошибка Дата="2025-06-20T23:19:44.540" Источник="spid55" Сообщение="Parallel redo is shutdown for database 'BobrovskiyLes' with worker pool size [1]." />
+        <Ошибка Дата="2025-06-20T23:19:44.510" Источник="spid55" Сообщение="Parallel redo is started for database 'BobrovskiyLes' with worker pool size [1]." />
+        <Ошибка Дата="2025-06-20T23:19:44.430" Источник="spid55" Сообщение="Starting up database 'BobrovskiyLes'." />
+        <Ошибка Дата="2025-06-20T23:19:44.410" Источник="spid55" Сообщение="Parallel redo is shutdown for database 'InternetShopDB2' with worker pool size [1]." />
+        <Ошибка Дата="2025-06-20T23:19:44.380" Источник="spid55" Сообщение="Parallel redo is started for database 'InternetShopDB2' with worker pool size [1]." />
+        <Ошибка Дата="2025-06-20T23:19:44.300" Источник="spid55" Сообщение="Starting up database 'InternetShopDB2'." />
+        <Ошибка Дата="2025-06-20T23:19:44.230" Источник="spid55" Сообщение="Parallel redo is shutdown for database 'InternetShopDB1' with worker pool size [1]." />
+      </ПоследниеОшибки>
+    </Ошибки>
+    <Состояние>
+      <СостояниеБазы>
+        <База База="NameDataB" РазмерМБ="16.00" СвободноМБ="11.47" ПоследнийБэкап="Нет копий" />
+      </СостояниеБазы>
+    </Состояние>
+  </Отчёт>
+</Мониторинг>
